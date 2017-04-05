@@ -1,0 +1,25 @@
+div {
+  outline:1px solid gray;
+  height:50px;
+  width:100%;
+  display:block;
+  padding:0px;
+  spacing:0px;
+  margin:0px;
+}
+#header {
+  background-color: blue;
+}
+.row {
+  background-color: brown;
+
+}
+button {
+  outline:1px solid gray;
+  height:50px;
+  width:100%;
+  display:block;
+  padding:0px;
+  spacing:0px;
+  margin:0px;
+}
